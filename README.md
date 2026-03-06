@@ -181,7 +181,7 @@ home: const AdminLoginScreen(),
 ### Admin Credentials
 
 * **Email:** admin@gmail.com
-* **Password:** admin123
+* **Password:** @Admin123
 
 This allows you to login and manage all backend data (orders, customers, products, billing, etc.) via the admin interface.
 
@@ -206,3 +206,4 @@ https://github.com/zohaib-uddin
 ## 📄 License
 
 This project is shared for educational and portfolio purposes.
+
